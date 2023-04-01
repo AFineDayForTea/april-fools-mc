@@ -7,3 +7,6 @@ A resource pack, made for both Bedrock and Java edition, to put on my private se
 - Diamond and lapis ores are switched
 - Gold and redstone ores are switched
 - The creeper sound is now the "Creeper, aw man" quote from *Revenge* (Java only)
+
+
+**DISCLAIMER: This project is not affliated with nor approved by Mojang or Microsoft.**
