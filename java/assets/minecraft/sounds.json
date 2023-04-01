@@ -1,0 +1,13 @@
+{
+  "entity.creeper.primed": {
+    "replace": "true",
+    "subtitle": "Creeper, aw man",
+    "sounds": [
+      {
+        "name": "mob/creeper/prime",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  }
+}

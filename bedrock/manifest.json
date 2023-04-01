@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "The joke's on you",
+   "name": "April Fool's 2023",
+   "uuid": "19de10b6-d040-11ed-afa1-0242ac120002",
+   "version": [23, 3, 31],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "The joke's on you",
+     "type": "resources",
+     "uuid": "19de0d64-d040-11ed-afa1-0242ac120002",
+     "version": [23, 3, 31]
+   }
+ ]
+}
